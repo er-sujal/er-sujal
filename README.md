@@ -1,16 +1,33 @@
-## Hi there 👋
+<h1 align="center">Hi there, I'm <a href="https://github.com/er-sujal" target="_blank">Sujal Kakadiya</a> 👋</h1>
+<h3 align="center">💻 Passionate Developer | 🚀 Tech Enthusiast | 🔬 AI & ML Explorer</h3>
 
-<!--
-**er-sujal/er-sujal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🛠 Tech Stack
+- 💻 Languages: **C#, JavaScript, Python**
+- 🔧 Backend: **ASP.NET MVC, .NET Core, Node.js, Web API**
+- 🗄️ Database: **PostgreSQL, MongoDB**
+- 🚀 Tools & Frameworks: **RabbitMQ, SignalR, Redis, Bootstrap, jQuery**
+- 🌐 Frontend: **React.js, Kendo UI, AJAX, CSHTML**
+- ☁️ Cloud & DevOps: **Docker, GitHub Actions**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 About Me
+- 🔭 Currently working on **Chat Application using Kendo UI & RabbitMQ**
+- 🌱 Learning **RabbitMQ, WebSockets & Distributed Systems**
+- 📝 Documenting my **AI & ML Learning Journey**
+- ⚡ Fun Fact: **I love Thor, Spider-Man, and Iron Man in the MCU ⚡🕷️🔥**
+
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+  <a href="mailto:sujalkakadiya0@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/sujalkakadiya"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+</p>
+
+---
+
+⭐ **If you like my work, consider starring my repos!** ⭐
